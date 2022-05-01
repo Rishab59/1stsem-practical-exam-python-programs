@@ -1,3 +1,2 @@
 # sample-python-programs
-This is some sample python programs
-Testing
+1st sem PSPP lab programs (in python)
